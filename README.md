@@ -1,1 +1,4 @@
-# project about CRUD operation in node js with photo
+this made up of crude operation 
+register user deatails with photo 
+in mysql connection
+
